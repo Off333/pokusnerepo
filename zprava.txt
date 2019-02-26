@@ -1,4 +1,5 @@
+%DATE%
 OOF
 dneska je %day%
 a je %temperature% stupnu
-krome toho sem mam neco pridat
+krome toho sem mam neco prid
