@@ -1,0 +1,2 @@
+dneska je %day%
+a je %temperature% stupnu
