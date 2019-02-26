@@ -2,4 +2,9 @@
 OOF
 dneska je %day%
 a je %temperature% stupnu
+<<<<<<< HEAD
 krome toho sem mam neco prid
+=======
+krome toho sem mam neco pridat
+zazvonil zvonec a souboru byl konec
+>>>>>>> vetev
